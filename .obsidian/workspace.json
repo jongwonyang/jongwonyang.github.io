@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/new-note.md",
+                "file": "_drafts/boj-12865.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/new-note.md",
+                "file": "_drafts/boj-12865.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/new-note.md",
+                "file": "_drafts/boj-12865.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/new-note.md"
+                "file": "_drafts/boj-12865.md"
               }
             }
           }
@@ -146,23 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d02ee1a138b1cb88",
+  "active": "64585335ee91c94d",
   "lastOpenFiles": [
+    "_site/algorithm/2023/10/31/boj-12865.html",
+    "_site/algorithm/2023/10/31",
+    "_drafts/dijkstras-algorithm.md",
+    "_drafts/boj-12865.md",
+    "README.md",
     "_templates/post.md",
-    "_drafts/new-note.md",
     "_site/2023/10/31/new-note.html",
     "_site/2023/10/31",
     "_site/2023/10/03/new-note.html",
     "_site/2023/10/03",
     "_site/2023/10",
     "_site/2023",
-    "_drafts/dijkstras-algorithm.md",
     "_site/2023/10/31/Untitled.html",
     "_templates",
     "_posts/2023-10-30-dijkstras-algorithm.md",
     "_drafts/new-draft.md",
     "_drafts/dijkstra-algorithm.md",
-    "_site/algorithm/2023/10/30/dijkstras-algorithm.html",
-    "_site/algorithm/2023/10/30/my-new-algorithm.html"
+    "_site/algorithm/2023/10/30/dijkstras-algorithm.html"
   ]
 }
