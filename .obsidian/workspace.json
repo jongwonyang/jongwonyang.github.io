@@ -150,10 +150,10 @@
   "lastOpenFiles": [
     "_site/algorithm/2023/10/31/boj-12865.html",
     "_site/algorithm/2023/10/31",
-    "_drafts/dijkstras-algorithm.md",
-    "_drafts/boj-12865.md",
-    "README.md",
     "_templates/post.md",
+    "_drafts/boj-12865.md",
+    "_drafts/dijkstras-algorithm.md",
+    "README.md",
     "_site/2023/10/31/new-note.html",
     "_site/2023/10/31",
     "_site/2023/10/03/new-note.html",
@@ -164,7 +164,6 @@
     "_templates",
     "_posts/2023-10-30-dijkstras-algorithm.md",
     "_drafts/new-draft.md",
-    "_drafts/dijkstra-algorithm.md",
-    "_site/algorithm/2023/10/30/dijkstras-algorithm.html"
+    "_drafts/dijkstra-algorithm.md"
   ]
 }

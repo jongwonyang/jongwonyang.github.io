@@ -4,4 +4,4 @@ layout: post
 date: "{{date}} {{time}}"
 categories:
 ---
-{{date}}
+This is draft but it's NOT private!
